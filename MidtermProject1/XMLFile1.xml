@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>image/dentalcheckup.jpg</ImageUrl>
+		<NavigateUrl>https://www.dentistryiq.com/</NavigateUrl>
+		<AlternativeText>Checkup</AlternativeText>
+		<Impression>30</Impression>
+		<Keyword>Checkup</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>image/dental room.jpg</ImageUrl>
+		<NavigateUrl>https://www.dentistryiq.com/</NavigateUrl>
+		<AlternativeText>room</AlternativeText>
+		<Impression>30</Impression>
+		<Keyword>Room</Keyword>
+	</Ad>
+</Advertisements>
